@@ -1,0 +1,22 @@
+Play start
+PlayAgain play again
+PlayAgain listen again
+PlayAgain repeat
+MoreHelp explain
+MoreHelp know more
+AMAZON.HelpIntent help
+Answer {SolfaNameA}
+Answer {SolfaNameA} {SolfaNameB}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI} {SolfaNameJ}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI} {SolfaNameJ} {SolfaNameK}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI} {SolfaNameJ} {SolfaNameK} {SolfaNameL}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI} {SolfaNameJ} {SolfaNameK} {SolfaNameL} {SolfaNameM}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI} {SolfaNameJ} {SolfaNameK} {SolfaNameL} {SolfaNameM} {SolfaNameN}
+Answer {SolfaNameA} {SolfaNameB} {SolfaNameC} {SolfaNameD} {SolfaNameE} {SolfaNameF} {SolfaNameG} {SolfaNameH} {SolfaNameI} {SolfaNameJ} {SolfaNameK} {SolfaNameL} {SolfaNameM} {SolfaNameN} {SolfaNameO}

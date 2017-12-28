@@ -1,0 +1,93 @@
+{
+  "intents": [
+    {
+      "intent": "Play"
+    },
+    {
+      "intent": "PlayAgain"
+    },
+    {
+      "intent": "MoreHelp"
+    },
+    {
+      "intent": "Answer",
+      "slots": [
+        {
+          "name": "SolfaNameA",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameB",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameC",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameD",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameE",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameF",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameG",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameH",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameI",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameJ",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameK",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameL",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameM",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameN",
+          "type": "SOLFA_NAME"
+        },
+        {
+          "name": "SolfaNameO",
+          "type": "SOLFA_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

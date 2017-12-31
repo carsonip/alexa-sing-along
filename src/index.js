@@ -93,7 +93,7 @@ var handlers = {
     },
     'AMAZON.HelpIntent': function () {
         var speechOutput = `Welcome to Sing Along! This skill will play a rhythm, and you should repeat it using sol-fa names. 
-        Say play, to begin the game, or you can say, explain, to know more.`;
+        Say start, to begin the game, or you can say, explain, to know more.`;
         var reprompt = 'Say start, to begin the game, or you can say, explain, to know more.';
         this.emit(':ask', speechOutput, reprompt);
     },

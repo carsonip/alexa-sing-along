@@ -15,11 +15,13 @@ const POSITIVE_SENTENCE = [
     'You\'ve got it! ',
     'That\'s right! ',
     'Impressive! ',
+    'Nice job! ',
 ];
 const NEGATIVE_SENTENCE = [
     'Woops! Try again! ',
     'Oh no! Try again! ',
     'That\'s incorrect! Try again! ',
+    'That\'s not right! Try again! ',
 ];
 const DOE_REFERENCE = 'This is doe. ' + getAudioTag('d');
 const LISTEN = 'Now listen to the rhythm. ';
@@ -85,8 +87,8 @@ var handlers = {
         play.call(this, '', true);
     },
     'MoreHelp': function () {
-        var speechOutput = `For example, when you hear ${getAudioTag('d')} you should say, Doe. 
-        And when you hear ${getAudioTag('smd')} you should say, 'Sew, Me, Doe'. The difficulty increases as you get better. Good luck!
+        var speechOutput = `Sol-fa names are, Doe, Ray, Me, Far, Sew<break />La, Tea<break strength="x-strong"/>which correspond to ${getAudioTagsFromRhythm('drmfslt')}<break strength="x-strong"/>
+        For example, when you hear ${getAudioTag('smd')} you should say, 'Sew, Me, Doe'. The difficulty increases as you get better. Good luck!
         Say start, to begin the game.`
         var reprompt = 'Say start, to begin the game.';
         this.emit(':ask', speechOutput, reprompt);
